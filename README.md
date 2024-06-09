@@ -13,10 +13,9 @@
 
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
-- Python
+- 
 
 ## 💻 Projeto
 
-Um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
 
